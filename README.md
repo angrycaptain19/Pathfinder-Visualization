@@ -6,7 +6,7 @@ The algorithms that supports this program are Dijkstra's Algorithm, Breadth-Firs
 # To interact with this program
 Use your mouse to click once on any location as many times as needed to create the target dots. 
 Press "Space" to start the pathfind algorithms that finds the shortest path between the target dots. 
-Press "c" to delete the drawing without canceling the program. 
+Press "c" to delete the drawing without closing the program. 
 
 # Requirements 
 Download Python 3.9.2 https://www.python.org/downloads/ (coded in the downloaded IDLE).
